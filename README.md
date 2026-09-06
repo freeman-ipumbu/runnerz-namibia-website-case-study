@@ -28,7 +28,7 @@ The result combines a human launch story with a working route-discovery surface.
 - Self-hosted MapLibre basemap using a compact Windhoek PMTiles archive.
 - Suggested public meetup options ranked by true nearest-route distance.
 - Live MET Norway weather and conservative warm/high-UV guidance.
-- A sixteen-screen real Android gallery rather than speculative phone mockups, including a live Founder portrait, governed recognition, the native share-card studio and a device-aware run celebration.
+- A seventeen-screen real Android gallery rather than speculative phone mockups, including ranked meetup options, a live Founder portrait, governed recognition, the native share-card studio and a device-aware run celebration.
 - Production-shaped Insider registration with validation, consent and truthful delivery states.
 - Privacy, support, terms, safety and account-deletion routes.
 - Mobile-hardened Route Lab, navigation and gallery behaviour with reduced-motion handling.
@@ -49,6 +49,10 @@ The website now presents the production-shaped Android account journey alongside
 | Live Founder profile | Governed recognition | Privacy-safe share studio |
 |---|---|---|
 | ![Runnerz Founder profile](assets/app-founder-profile.webp) | ![Runnerz recognition shelf](assets/app-founder-badges.webp) | ![Runnerz share-card studio](assets/app-share-card.webp) |
+
+| Ranked meetup options on the live route map |
+|---|
+| ![Runnerz ranked public meetup options](assets/app-meetup-options.webp) |
 
 | Device-aware completion moment |
 |---|
@@ -91,7 +95,7 @@ BROWSER + DEVICE EVALUATION → SAFETY CORRECTION → HARDENED RELEASE
 
 The official website is live at [runnerznamibia.com](https://runnerznamibia.com). Its production verification suite covers public routes, legal and support pages, security headers, health/weather contracts, sitemap coverage, route studies, PMTiles byte-range delivery and canonical host behaviour.
 
-The Route Lab exposes 24 distinct Windhoek studies while keeping field verification explicit. The Insider journey is live with validation and confirmation mail, and the product gallery contains sixteen clean physical-device captures spanning hardened signup and recovery, an owner-controlled Founder profile, governed recognition, privacy-safe square/Story exports and a finite run-completion moment. This case study records the shipped experience without exposing deployable source, operational endpoints or private configuration.
+The Route Lab exposes 24 distinct Windhoek studies while keeping field verification explicit. The Insider journey is live with validation and confirmation mail, and the product gallery contains seventeen clean physical-device captures spanning hardened signup and recovery, ranked meetup-map options, an owner-controlled Founder profile, governed recognition, privacy-safe square/Story exports and a finite run-completion moment. This case study records the shipped experience without exposing deployable source, operational endpoints or private configuration.
 
 ## Repository boundary
 
