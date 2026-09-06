@@ -28,10 +28,23 @@ The result combines a human launch story with a working route-discovery surface.
 - Self-hosted MapLibre basemap using a compact Windhoek PMTiles archive.
 - Suggested public meetup options ranked by true nearest-route distance.
 - Live MET Norway weather and conservative warm/high-UV guidance.
-- Real Android device captures rather than speculative phone mockups.
+- A twelve-screen real Android gallery rather than speculative phone mockups.
 - Production-shaped Insider registration with validation, consent and truthful delivery states.
 - Privacy, support, terms, safety and account-deletion routes.
-- Responsive navigation, reduced-motion handling, metadata, sitemap and security headers.
+- Mobile-hardened Route Lab, navigation and gallery behaviour with reduced-motion handling.
+- Metadata, sitemap, security headers and production health checks.
+
+## Live product proof
+
+The website now presents the production-shaped Android account journey alongside the wider Runnerz product story.
+
+| Welcome | Secure sign-in | Create account |
+|---|---|---|
+| ![Runnerz welcome](assets/app-welcome.webp) | ![Runnerz sign-in](assets/app-sign-in.webp) | ![Runnerz create account](assets/app-create-account.webp) |
+
+| Password recovery | Authenticated password update |
+|---|---|
+| ![Runnerz password recovery](assets/app-password-recovery.webp) | ![Runnerz new password](assets/app-new-password.webp) |
 
 ## Product atmosphere
 
@@ -53,11 +66,11 @@ Geometry is genuine routed open data. Access, lighting, water, road conditions a
 - Vinext and Vite
 - MapLibre with self-hosted PMTiles, fonts and sprites
 - Protomaps/OpenStreetMap attribution and BRouter route studies
-- Cloudflare-compatible server output
+- DigitalOcean App Platform deployment behind Cloudflare DNS and edge controls
 - Responsive route metadata and map rendering
 - Content Security Policy and conservative browser-security headers
 - Optimised WebP media and deferred below-the-fold assets
-- Structured consent and abuse-protection foundation
+- Structured consent, duplicate prevention and abuse-protection foundations
 
 ## Design science loop
 
@@ -68,7 +81,9 @@ BROWSER + DEVICE EVALUATION → SAFETY CORRECTION → HARDENED RELEASE
 
 ## Current status
 
-The official website is an active private product. The showcase records the experience and engineering decisions without exposing deployable source, operational endpoints or private configuration.
+The official website is live at [runnerznamibia.com](https://runnerznamibia.com). Its production verification suite currently passes 48 checks covering public routes, legal and support pages, security headers, health/weather contracts, sitemap coverage, route studies, PMTiles byte-range delivery and canonical host behaviour.
+
+The Route Lab exposes 24 distinct Windhoek studies while keeping field verification explicit. The Insider journey is live with validation and confirmation mail, and the product gallery contains twelve clean physical-device captures including the hardened signup and recovery flow. This case study records the shipped experience without exposing deployable source, operational endpoints or private configuration.
 
 ## Repository boundary
 
