@@ -30,6 +30,7 @@ The result combines a human launch story with a working route-discovery surface.
 - Live MET Norway weather and conservative warm/high-UV guidance.
 - A seventeen-screen real Android gallery rather than speculative phone mockups, including ranked meetup options, a live Founder portrait, governed recognition, the native share-card studio and a device-aware run celebration.
 - Production-shaped Insider registration with validation, consent and truthful delivery states.
+- Founder-only operations command with live product signals, a structured Insider workflow, audit-ready exports and accountable follow-up states.
 - Privacy, support, terms, safety and account-deletion routes.
 - Mobile-hardened Route Lab, navigation and gallery behaviour with reduced-motion handling.
 - Metadata, sitemap, security headers and production health checks.
@@ -83,6 +84,16 @@ Geometry is genuine routed open data. Access, lighting, water, road conditions a
 - Content Security Policy and conservative browser-security headers
 - Optimised WebP media and deferred below-the-fold assets
 - Structured consent, duplicate prevention and abuse-protection foundations
+- Named-operator authorization and database-enforced multi-factor assurance
+- Private workflow state with append-only, cryptographically linked audit evidence
+
+## Operations is part of the product
+
+Launching the public surface created a second design problem: interest is only useful if the team can act on it responsibly.
+
+I designed Runnerz Command as a deliberately single-account control room for the Founder. It turns Insider demand, live community signals and follow-up decisions into one restrained operational workflow. Each contact can be reviewed, prioritised, scheduled and annotated; operational and audit datasets can be exported without exposing any management surface to ordinary Runnerz accounts.
+
+The control model is defence in depth: a valid account, an explicit private allowlist and a fresh authenticator-backed session are all required. The data layer rejects password-only sessions even if the interface is bypassed. Contact details remain with the email provider while the database stores only the minimum workflow state needed for accountable operations.
 
 ## Design science loop
 
@@ -93,7 +104,7 @@ BROWSER + DEVICE EVALUATION → SAFETY CORRECTION → HARDENED RELEASE
 
 ## Current status
 
-The official website is live at [runnerznamibia.com](https://runnerznamibia.com). Its production verification suite covers public routes, legal and support pages, security headers, health/weather contracts, sitemap coverage, route studies, PMTiles byte-range delivery and canonical host behaviour.
+The official website is live at [runnerznamibia.com](https://runnerznamibia.com). Its production verification suite covers public routes, legal and support pages, security headers, health/weather contracts, sitemap coverage, route studies, PMTiles byte-range delivery, canonical host behaviour and anonymous rejection at the operations boundary.
 
 The Route Lab exposes 24 distinct Windhoek studies while keeping field verification explicit. The Insider journey is live with validation and confirmation mail, and the product gallery contains seventeen clean physical-device captures spanning hardened signup and recovery, ranked meetup-map options, an owner-controlled Founder profile, governed recognition, privacy-safe square/Story exports and a finite run-completion moment. This case study records the shipped experience without exposing deployable source, operational endpoints or private configuration.
 
