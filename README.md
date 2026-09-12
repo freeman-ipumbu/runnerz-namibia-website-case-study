@@ -55,7 +55,11 @@ The website now presents the production-shaped Android account journey alongside
 |---|
 | ![Runnerz ranked public meetup options](assets/app-meetup-options.webp) |
 
-An older completion capture has been retired from the gallery while revised timer-only completion wording awaits a new physical-device screenshot. Planned route distance is not presented as verified kilometres banked.
+| Onboarding trust choices | Founder welcome | Founder’s Corner |
+|---|---|---|
+| ![Runnerz privacy and trust onboarding](assets/app-onboarding-trust.webp) | ![Signed Runnerz Founder welcome](assets/app-founder-welcome.webp) | ![Runnerz Founder’s Corner](assets/app-founder-community.webp) |
+
+The gallery now uses the current Android 1.0.10 field-test capture set, including the revised timer-only completion state. Planned route distance is never presented as verified kilometres banked.
 
 ## Product atmosphere
 
@@ -108,7 +112,7 @@ The Route Lab exposes 24 distinct Windhoek studies while keeping field verificat
 
 September registration hardening makes required device choices explicit and replaces a silently disabled submit button with actionable guidance. Security-check expiry and loading failures have a visible retry path; optional WhatsApp consent remains optional. Automated tests exercise valid platform choices, Namibian-number validation, mandatory consent, security rejection and duplicate registration with external delivery mocked. Those tests do not substitute for real production delivery checks.
 
-The registration correction is deployed. Its local handler suite passed six checks and the deployed website passed 53 public-route, health and security-contract checks. A real-mail signup acceptance check remains separate from that result.
+The registration correction is deployed. Its local handler suite passed six checks and the deployed website passed 53 public-route, health and security-contract checks. A real-mail signup acceptance check remains separate from that result. The public product gallery was refreshed on 12 September 2026 from the current private website and Android evidence sets.
 
 ## Repository boundary
 
