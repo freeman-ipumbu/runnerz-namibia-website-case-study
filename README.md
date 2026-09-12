@@ -108,6 +108,8 @@ The Route Lab exposes 24 distinct Windhoek studies while keeping field verificat
 
 September registration hardening makes required device choices explicit and replaces a silently disabled submit button with actionable guidance. Security-check expiry and loading failures have a visible retry path; optional WhatsApp consent remains optional. Automated tests exercise valid platform choices, Namibian-number validation, mandatory consent, security rejection and duplicate registration with external delivery mocked. Those tests do not substitute for real production delivery checks.
 
+The registration correction is deployed. Its local handler suite passed six checks and the deployed website passed 53 public-route, health and security-contract checks. A real-mail signup acceptance check remains separate from that result.
+
 ## Repository boundary
 
 No application source, PMTiles archive, environment file, API implementation, production identifier, subscriber data or deployment configuration is included here.
