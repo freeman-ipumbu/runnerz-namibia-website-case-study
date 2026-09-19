@@ -23,7 +23,7 @@ The result combines a human launch story with a working route-discovery surface.
 ## Experience highlights
 
 - Cinematic Windhoek launch direction grounded in the actual city.
-- Searchable Route Lab with 24 distinct BRouter/OpenStreetMap geometry and elevation studies.
+- Searchable Route Lab with 27 distinct BRouter/OpenStreetMap geometry and elevation studies.
 - Route-specific pages with distance, climb, terrain context and honest field-check status.
 - Self-hosted MapLibre basemap using a compact Windhoek PMTiles archive.
 - Suggested public meetup options ranked by true nearest-route distance.
@@ -34,6 +34,15 @@ The result combines a human launch story with a working route-discovery surface.
 - Privacy, support, terms, safety and account-deletion routes.
 - Mobile-hardened Route Lab, navigation and gallery behaviour with reduced-motion handling.
 - Metadata, sitemap, security headers and production health checks.
+- A new product update section for the 1.0.11 active-run candidate: live lime trail, useful run metrics, durable offline history, privacy-safe aggregate mileage/leaderboards, minimised Android controls, privacy-safe Running Nearby, music handoff and sponsor/event-ready Community space.
+- A women-centred programme story covering women-only invite-controlled runs, women-led all-welcome sessions, beginner circles and daylight route checks; optional self-reported identity stays private and is never inferred or published.
+- A `Coming soon` first-drop merch catalogue built from the production-ready tee and vehicle-vinyl artwork, with a consented first-access interest signal rather than a premature payment or preorder promise.
+
+## Ambassador and culture layer
+
+![Shadrac ShowTime Mavungu](assets/showtime-ambassador.jpg)
+
+The public product story now introduces Shadrac “ShowTime” Mavungu as an official Runnerz Brand Ambassador. His original Runnerz track and planned Didi-led content are described as work in development; no sponsor or featured artist is presented as confirmed before an agreement exists.
 
 ## Live product proof
 
@@ -59,7 +68,7 @@ The website now presents the production-shaped Android account journey alongside
 |---|---|---|
 | ![Runnerz privacy and trust onboarding](assets/app-onboarding-trust.webp) | ![Signed Runnerz Founder welcome](assets/app-founder-welcome.webp) | ![Runnerz Founder’s Corner](assets/app-founder-community.webp) |
 
-The gallery now uses the current Android 1.0.10 field-test capture set, including the revised timer-only completion state. Planned route distance is never presented as verified kilometres banked.
+The gallery currently uses the physical Android 1.0.10 field-test capture set, including the revised timer-only completion state. New 1.0.11 live-tracking and Banked Miles captures remain gated on the final handset walkthrough. Planned route distance is never presented as verified kilometres banked; only completed aggregate sessions that pass the server evidence gate can affect ranked totals.
 
 ## Product atmosphere
 
@@ -108,7 +117,7 @@ BROWSER + DEVICE EVALUATION → SAFETY CORRECTION → HARDENED RELEASE
 
 The official website is live at [runnerznamibia.com](https://runnerznamibia.com). Its production verification suite covers public routes, legal and support pages, security headers, health/weather contracts, sitemap coverage, route studies, PMTiles byte-range delivery, canonical host behaviour and anonymous rejection at the operations boundary.
 
-The Route Lab exposes 24 distinct Windhoek studies while keeping field verification explicit. The Insider journey has validation and confirmation mail, and the product gallery uses physical-device captures spanning signup and recovery, ranked meetup-map options, an owner-controlled Founder profile, governed recognition and privacy-safe square/Story exports.
+The Route Lab now exposes 27 distinct Windhoek studies while keeping field verification explicit. Rocky Crest, Wanaheda and Luxury Hill were added through the same BRouter/OpenStreetMap pipeline; candidates without two credible public-place meetups inside 500 metres were rejected. The Insider journey has validation and confirmation mail, and the product gallery uses physical-device captures spanning signup and recovery, ranked meetup-map options, an owner-controlled Founder profile, governed recognition and privacy-safe square/Story exports.
 
 September registration hardening makes required device choices explicit and replaces a silently disabled submit button with actionable guidance. Security-check expiry and loading failures have a visible retry path; optional WhatsApp consent remains optional. Automated tests exercise valid platform choices, Namibian-number validation, mandatory consent, security rejection and duplicate registration with external delivery mocked. Those tests do not substitute for real production delivery checks.
 
