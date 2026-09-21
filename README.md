@@ -123,7 +123,7 @@ September registration hardening makes required device choices explicit and repl
 
 The registration correction is deployed. Its local handler suite passed six checks and the deployed website passed 53 public-route, health and security-contract checks. A real-mail signup acceptance check remains separate from that result. The public product gallery was refreshed on 12 September 2026 from the current private website and Android evidence sets.
 
-The complete 21-product merchandise concept gallery was deployed on 21 September 2026. Production acceptance confirmed the catalogue marker, every product name and all five concept-image families on the canonical domain. The live interest flow remains explicitly non-transactional: it takes no payment and makes no preorder, price, stock, reservation or allocation promise.
+The complete 21-product merchandise concept gallery was deployed on 21 September 2026. Production acceptance confirmed the catalogue marker, every product name and all five concept-image families on the canonical domain; the updated production verifier passes all 65 checks. The live interest flow remains explicitly non-transactional: it takes no payment and makes no preorder, price, stock, reservation or allocation promise.
 
 ## Repository boundary
 
