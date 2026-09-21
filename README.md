@@ -36,7 +36,7 @@ The result combines a human launch story with a working route-discovery surface.
 - Metadata, sitemap, security headers and production health checks.
 - A new product update section for the 1.0.11 active-run candidate: live lime trail, useful run metrics, durable offline history, privacy-safe aggregate mileage/leaderboards, minimised Android controls, privacy-safe Running Nearby, music handoff and sponsor/event-ready Community space.
 - A women-centred programme story covering women-only invite-controlled runs, women-led all-welcome sessions, beginner circles and daylight route checks; optional self-reported identity stays private and is never inferred or published.
-- A `Coming soon` first-drop merch catalogue built from the production-ready tee and vehicle-vinyl artwork, with a consented first-access interest signal rather than a premature payment or preorder promise.
+- A `Coming soon` gallery presenting the complete 21-product concept collection across hydration, headwear, movement essentials, carry/keepsakes, club travel and the original three-tee range. Five catalogue image families replace the earlier three-item preview, while vehicle graphics remain clearly identified as launch-support artwork. A consented product-interest signal captures demand without making a payment, preorder, price, stock or allocation promise.
 
 ## Ambassador and culture layer
 
