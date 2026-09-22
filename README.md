@@ -33,6 +33,7 @@ The result combines a human launch story with a working route-discovery surface.
 - Founder-only operations command with live product signals, a structured Insider workflow, audit-ready exports and accountable follow-up states.
 - Privacy, support, terms, safety and account-deletion routes.
 - Mobile-hardened Route Lab, navigation and gallery behaviour with reduced-motion handling.
+- A persistent hamburger control keeps the full Runnerz navigation one tap away across phone, tablet and desktop widths, while the direct link row remains available on larger screens.
 - Metadata, sitemap, security headers and production health checks.
 - A new product update section for the 1.0.11 active-run candidate: live lime trail, useful run metrics, durable offline history, privacy-safe aggregate mileage/leaderboards, minimised Android controls, privacy-safe Running Nearby, music handoff and sponsor/event-ready Community space.
 - A women-centred programme story covering women-only invite-controlled runs, women-led all-welcome sessions, beginner circles and daylight route checks; optional self-reported identity stays private and is never inferred or published.
