@@ -126,6 +126,8 @@ The registration correction is deployed. Its local handler suite passed six chec
 
 The complete 21-product merchandise concept gallery was deployed on 21 September 2026. Production acceptance confirmed the catalogue marker, every product name and all five concept-image families on the canonical domain; the updated production verifier passes all 65 checks. The live interest flow remains explicitly non-transactional: it takes no payment and makes no preorder, price, stock, reservation or allocation promise.
 
+On 23 September 2026, the site-wide hamburger navigation and a narrow-screen repair for the merchandise interest form were deployed. The form was checked in the live browser at 320, 390 and 430 pixel widths without overflow. The footer credits SolarSpin Technologies and links to Freeman Ipumbu’s personal portfolio; the production verifier again passed all 65 checks.
+
 ## Repository boundary
 
 No application source, PMTiles archive, environment file, API implementation, production identifier, subscriber data or deployment configuration is included here.
