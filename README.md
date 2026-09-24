@@ -38,7 +38,8 @@ The result combines a human launch story with a working route-discovery surface.
 - A new product update section for the 1.0.11 active-run candidate: live lime trail, useful run metrics, durable offline history, privacy-safe aggregate mileage/leaderboards, minimised Android controls, privacy-safe Running Nearby, music handoff and sponsor/event-ready Community space.
 - A women-centred programme story covering women-only invite-controlled runs, women-led all-welcome sessions, beginner circles and daylight route checks; optional self-reported identity stays private and is never inferred or published.
 - A `Coming soon` gallery presenting the complete 21-product concept collection across hydration, headwear, movement essentials, carry/keepsakes, club travel and the original three-tee range. Five catalogue image families replace the earlier three-item preview, while vehicle graphics remain clearly identified as launch-support artwork. A consented product-interest signal captures demand without making a payment, preorder, price, stock or allocation promise.
-- A dedicated Official Runnerz Music Player story and separate UNIFIED × Runnerz digital promo inside the merch area, connecting movement sessions, private listening intelligence and the shared ecosystem identity without altering the verified 21-item physical concept catalogue.
+- A dedicated Official Runnerz Music Player story and separate UNIFIED × Runnerz digital promo inside the merch area, now led by real 9.0 handset captures rather than concept artwork and still kept outside the verified 21-item physical catalogue.
+- A new community-ecosystem bridge introduces Magic Boys Football Academy through its live privacy-first website and public repository without presenting the academy and Runnerz as the same initiative.
 
 ## Ambassador and culture layer
 
@@ -48,15 +49,21 @@ The public product story now introduces Shadrac “ShowTime” Mavungu as an off
 
 ## Official Runnerz Music Player
 
-![UNIFIED × Runnerz official music player](assets/unified-runnerz-player.svg)
+| Night Signal Home | Runnerz + ShowTime Radio | Now Playing |
+|---|---|---|
+| ![UNIFIED 9.0 Home](assets/unified-9-home.jpg) | ![UNIFIED Runnerz Mode and ShowTime Radio](assets/unified-9-runnerz-showtime.jpg) | ![UNIFIED 9.0 Now Playing](assets/unified-9-now-playing.jpg) |
 
-*Original product-system artwork with illustrative session and progression data; not an app screenshot.*
+*Real `9.0-debug` captures from the physical HONOR Android 15 release handset with its 3,795-track local library.*
 
-The current website candidate gives **UNIFIED × Runnerz** its own ecosystem story rather than presenting music as a generic external-app button. UNIFIED 8.0 is the official Runnerz music player: a local-first Kotlin Multiplatform system with private 30, 45, 60 and 90-minute run mixes, five Session Studio modes, Track Radio, nine persistent badges, five explainable listening archetypes and a checksummed two-generation Library Vault.
+The website gives **UNIFIED × Runnerz** its own ecosystem story rather than presenting music as a generic external-app button. UNIFIED 9.0 is the installed official Runnerz music player: a local-first Kotlin Multiplatform system with private 30, 45, 60 and 90-minute run mixes, five Session Studio modes, Track Radio, ten persistent badges, five explainable listening archetypes and a checksummed two-generation Library Vault.
 
-Starting a duration-aware run mix in UNIFIED can launch the matching Runnerz session; the bridge hands over only its title, target duration and track count. Track identities and full listening history stay in UNIFIED, while exact route data stays in Runnerz. The sender and Live/Field Test receivers compile successfully; signed physical-device round-trip validation remains explicit before the bridge is described as production-complete.
+Starting a duration-aware run mix in UNIFIED can launch the matching Runnerz session; the bridge hands over only its title, target duration and track count. Track identities and full listening history stay in UNIFIED, while exact route data stays in Runnerz. The player itself is physically installed and verified; the signed start/run/return round-trip remains a separate integration gate before that complete loop is described as production-ready.
 
-The website promotion also keeps the commercial and rights boundaries visible: the player is a `Coming soon` digital ecosystem candidate rather than a paid order or a 22nd physical product, Apple Music and Spotify production adapters still require registered provider infrastructure, and the ShowTime ambassador channel discovers metadata-matched local tracks without treating a match as rights approval—it does not bundle artist audio, artwork or remote streams.
+The website promotion also keeps the commercial and rights boundaries visible: the player is a separate digital product rather than a paid order or a 22nd physical item, Apple Music and Spotify production adapters still require registered provider infrastructure, and ShowTime Radio discovers eleven real metadata-matched local tracks without treating a match as rights approval. The supplied Runnerz ambassador portrait is bundled for presentation; no artist audio or remote stream is bundled.
+
+## Community ecosystem bridge
+
+The public Runnerz story now links directly to [Magic Boys Football Academy](https://magicboys.pages.dev/) and the academy’s [website repository](https://github.com/freeman-ipumbu/magic-boys-fc). The bridge is framed around the shared value of movement, discipline and belonging rather than a fabricated product integration. It also carries the academy’s safeguarding boundary into the link story: no player names or personal details about minors are published, and enquiries route through the adult academy contact.
 
 ## Live product proof
 
@@ -141,7 +148,7 @@ The complete 21-product merchandise concept gallery was deployed on 21 September
 
 On 23 September 2026, the site-wide hamburger navigation and a narrow-screen repair for the merchandise interest form were deployed. The form was checked in the live browser at 320, 390 and 430 pixel widths without overflow. The footer credits SolarSpin Technologies and links to Freeman Ipumbu’s personal portfolio; the production verifier again passed all 65 checks.
 
-The current source candidate adds a standalone Official Runnerz Music Player section plus a separate digital promo inside the merchandise area and original ecosystem artwork. It preserves the 21 physical concept catalogue and keeps UNIFIED outside the merch-interest form. Local type, lint and production-build verification are release gates; canonical-domain deployment and browser acceptance remain separately reported rather than implied by the source update.
+The current source candidate upgrades the standalone Official Runnerz Music Player section with real UNIFIED 9.0 screenshots and physical-device release proof, adds the Magic Boys FA community bridge, preserves the 21-item physical catalogue and keeps UNIFIED outside the merch-interest form. Local type, lint and production-build verification remain release gates; canonical-domain deployment and browser acceptance are reported only after the production release completes.
 
 ## Repository boundary
 
