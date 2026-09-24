@@ -39,7 +39,7 @@ The result combines a human launch story with a working route-discovery surface.
 - A women-centred programme story covering women-only invite-controlled runs, women-led all-welcome sessions, beginner circles and daylight route checks; optional self-reported identity stays private and is never inferred or published.
 - A `Coming soon` gallery presenting the complete 21-product concept collection across hydration, headwear, movement essentials, carry/keepsakes, club travel and the original three-tee range. Five catalogue image families replace the earlier three-item preview, while vehicle graphics remain clearly identified as launch-support artwork. A consented product-interest signal captures demand without making a payment, preorder, price, stock or allocation promise.
 - A dedicated Official Runnerz Music Player story and separate UNIFIED × Runnerz digital promo inside the merch area, now led by real 9.0 handset captures rather than concept artwork and still kept outside the verified 21-item physical catalogue.
-- A new community-ecosystem bridge introduces Magic Boys Football Academy through its live privacy-first website and public repository without presenting the academy and Runnerz as the same initiative.
+- A new community-ecosystem bridge introduces Magic Boys Football Academy through its live privacy-first website without presenting the academy and Runnerz as the same initiative.
 
 ## Ambassador and culture layer
 
@@ -63,7 +63,7 @@ The website promotion also keeps the commercial and rights boundaries visible: t
 
 ## Community ecosystem bridge
 
-The public Runnerz story now links directly to [Magic Boys Football Academy](https://magicboys.pages.dev/) and the academy’s [website repository](https://github.com/freeman-ipumbu/magic-boys-fc). The bridge is framed around the shared value of movement, discipline and belonging rather than a fabricated product integration. It also carries the academy’s safeguarding boundary into the link story: no player names or personal details about minors are published, and enquiries route through the adult academy contact.
+The public Runnerz story now links directly to [Magic Boys Football Academy](https://magicboys.pages.dev/). The bridge is framed around the shared value of movement, discipline and belonging rather than a fabricated product integration. It also carries the academy’s safeguarding boundary into the link story: no player names or personal details about minors are published, and enquiries route through the adult academy contact.
 
 ## Live product proof
 
@@ -148,7 +148,7 @@ The complete 21-product merchandise concept gallery was deployed on 21 September
 
 On 23 September 2026, the site-wide hamburger navigation and a narrow-screen repair for the merchandise interest form were deployed. The form was checked in the live browser at 320, 390 and 430 pixel widths without overflow. The footer credits SolarSpin Technologies and links to Freeman Ipumbu’s personal portfolio; the production verifier again passed all 65 checks.
 
-On 24 September 2026, the UNIFIED 9.0 and community-ecosystem release went live on the canonical domain. The standalone Official Runnerz Music Player section now carries real release-handset screenshots and the verified 3,795-track Library Vault story; the Magic Boys FA bridge links the academy's live privacy-first website and public repository; the 21-item physical catalogue remains intact; and UNIFIED stays outside the merch-interest form. Desktop and narrow-screen browser acceptance passed, DigitalOcean promoted commit `50a7056`, and the production verifier completed all 74 public-route, asset, security, health and integration-boundary checks with zero failures.
+On 24 September 2026, the UNIFIED 9.0 and community-ecosystem release went live on the canonical domain. The standalone Official Runnerz Music Player section now carries real release-handset screenshots and the verified 3,795-track Library Vault story; the Magic Boys FA bridge links only to the academy's live privacy-first website; the 21-item physical catalogue remains intact; and UNIFIED stays outside the merch-interest form. Desktop and narrow-screen browser acceptance passed, DigitalOcean promoted commit `50a7056`, and the production verifier completed all 74 public-route, asset, security, health and integration-boundary checks with zero failures.
 
 ## Repository boundary
 
