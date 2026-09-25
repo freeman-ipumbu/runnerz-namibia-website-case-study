@@ -38,7 +38,7 @@ The result combines a human launch story with a working route-discovery surface.
 - A new product update section for the 1.0.11 active-run candidate: live lime trail, useful run metrics, durable offline history, privacy-safe aggregate mileage/leaderboards, minimised Android controls, privacy-safe Running Nearby, music handoff and sponsor/event-ready Community space.
 - A women-centred programme story covering women-only invite-controlled runs, women-led all-welcome sessions, beginner circles and daylight route checks; optional self-reported identity stays private and is never inferred or published.
 - A `Coming soon` gallery presenting the complete 21-product concept collection across hydration, headwear, movement essentials, carry/keepsakes, club travel and the original three-tee range. Five catalogue image families replace the earlier three-item preview, while vehicle graphics remain clearly identified as launch-support artwork. A consented product-interest signal captures demand without making a payment, preorder, price, stock or allocation promise.
-- A dedicated Official Runnerz Music Player story and separate UNIFIED × Runnerz digital promo inside the merch area, now led by real 9.0 handset captures rather than concept artwork and still kept outside the verified 21-item physical catalogue.
+- A dedicated Official Runnerz Music Player story and separate UNIFIED × Runnerz digital promo inside the merch area, now led by real 15.0 Momentum Engine handset captures and its generated aggregate-only Season card while staying outside the verified 21-item physical catalogue.
 - A new community-ecosystem bridge introduces Magic Boys Football Academy through its live privacy-first website without presenting the academy and Runnerz as the same initiative.
 
 ## Ambassador and culture layer
@@ -49,17 +49,17 @@ The public product story now introduces Shadrac “ShowTime” Mavungu as an off
 
 ## Official Runnerz Music Player
 
-| Night Signal Home | Runnerz + ShowTime Radio | Now Playing |
+| Momentum Engine | Playable Next Move | Listening Season card |
 |---|---|---|
-| ![UNIFIED 9.0 Home](assets/unified-9-home.jpg) | ![UNIFIED Runnerz Mode and ShowTime Radio](assets/unified-9-runnerz-showtime.jpg) | ![UNIFIED 9.0 Now Playing](assets/unified-9-now-playing.jpg) |
+| ![UNIFIED 15.0 Momentum Engine](assets/unified-15-momentum-season.png) | ![UNIFIED 15.0 thirty-track Next Move](assets/unified-15-next-move.png) | ![UNIFIED 15.0 aggregate-only Listening Season card](assets/unified-15-season-card.png) |
 
-*Real `9.0-debug` captures from the physical HONOR Android 15 release handset with its 3,795-track local library.*
+*Real `15.0-debug` captures and generated share output from the physical HONOR Android 15 release handset with its 3,795-track local library.*
 
-The website gives **UNIFIED × Runnerz** its own ecosystem story rather than presenting music as a generic external-app button. UNIFIED 9.0 is the installed official Runnerz music player: a local-first Kotlin Multiplatform system with private 30, 45, 60 and 90-minute run mixes, five Session Studio modes, Track Radio, ten persistent badges, five explainable listening archetypes and a checksummed two-generation Library Vault.
+The website gives **UNIFIED × Runnerz** its own ecosystem story rather than presenting music as a generic external-app button. UNIFIED 15.0 is the installed official Runnerz music player: a local-first Kotlin Multiplatform system with adaptive daily missions, a private 28-day Listening Season, honest previous-window comparison, a playable artist-diversified thirty-track Next Move, thirty-five persistent badges, five explainable listening archetypes and a checksummed two-generation Library Vault.
 
 Starting a duration-aware run mix in UNIFIED can launch the matching Runnerz session; the bridge hands over only its title, target duration and track count. Track identities and full listening history stay in UNIFIED, while exact route data stays in Runnerz. The player itself is physically installed and verified; the signed start/run/return round-trip remains a separate integration gate before that complete loop is described as production-ready.
 
-The website promotion also keeps the commercial and rights boundaries visible: the player is a separate digital product rather than a paid order or a 22nd physical item, Apple Music and Spotify production adapters still require registered provider infrastructure, and ShowTime Radio discovers eleven real metadata-matched local tracks without treating a match as rights approval. The supplied Runnerz ambassador portrait is bundled for presentation; no artist audio or remote stream is bundled.
+The website promotion also keeps the commercial and rights boundaries visible: the player is a separate digital product rather than a paid order or a 22nd physical item, Apple Music and Spotify production adapters still require registered provider infrastructure, and ShowTime Radio discovers eleven real metadata-matched local tracks without treating a match as rights approval. The supplied Runnerz ambassador portrait is bundled for presentation; no artist audio or remote stream is bundled. The Season card contains only aggregate listening evidence—never track titles, artists or file paths.
 
 ## Community ecosystem bridge
 
@@ -149,6 +149,8 @@ The complete 21-product merchandise concept gallery was deployed on 21 September
 On 23 September 2026, the site-wide hamburger navigation and a narrow-screen repair for the merchandise interest form were deployed. The form was checked in the live browser at 320, 390 and 430 pixel widths without overflow. The footer credits SolarSpin Technologies and links to Freeman Ipumbu’s personal portfolio; the production verifier again passed all 65 checks.
 
 On 24 September 2026, the UNIFIED 9.0 and community-ecosystem release went live on the canonical domain. The standalone Official Runnerz Music Player section now carries real release-handset screenshots and the verified 3,795-track Library Vault story; the Magic Boys FA bridge links only to the academy's live privacy-first website; the 21-item physical catalogue remains intact; and UNIFIED stays outside the merch-interest form. Desktop and narrow-screen browser acceptance passed, DigitalOcean promoted the final public-link boundary in commit `b9acf1b`, and the production verifier completed all 74 public-route, asset, security, health and integration-boundary checks with zero failures.
+
+On 25 September 2026, the official player story advanced to UNIFIED 15.0 Momentum Engine. The live page now shows the private 28-day Listening Season, real thirty-track Next Move, thirty-five-badge progression and the generated aggregate-only Season card using the final handset evidence. Desktop and 390-pixel mobile acceptance passed with no browser errors; DigitalOcean promoted commit `5b28baa`, the Sites mirror published version 17 from the same source commit, and the canonical production verifier completed all 73 current public-route, asset, security, health and integration-boundary checks with zero failures.
 
 ## Repository boundary
 
