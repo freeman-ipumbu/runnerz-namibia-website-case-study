@@ -37,7 +37,7 @@ The result combines a human launch story with a working route-discovery surface.
 - Mobile-hardened Route Lab, navigation and gallery behaviour with reduced-motion handling.
 - A persistent hamburger control keeps the full Runnerz navigation one tap away across phone, tablet and desktop widths, while the direct link row remains available on larger screens.
 - Metadata, sitemap, security headers and production health checks.
-- A product update section for the Android 1.1.0 / code 15 source-and-build
+- A product update section for the Android 1.1.0 / code 16 source-and-build
   candidate: accepted-fix map follow, a full-span segmented `#39FF88` trail,
   elapsed time, distance, current/average pace, estimated elevation gain,
   durable account-scoped Banked Miles, minimised Android workout controls,
@@ -133,20 +133,22 @@ acceptance.
 |---|---|---|
 | ![Runnerz privacy and trust onboarding](assets/app-onboarding-trust.webp) | ![Signed Runnerz Founder welcome](assets/app-founder-welcome.webp) | ![Runnerz Founder’s Corner](assets/app-founder-community.webp) |
 
-| 1.1.0 controlled signature trail on HONOR REA-NX9 |
-|---|
-| ![Controlled Runnerz Field Test capture showing two lime trail segments, 60 accepted fixes and 0.18 km on real Eros route geometry](assets/app-1-1-0-controlled-signature-trail.jpg) |
+| Code-16 live trail | Expanded active-run map |
+|---|---|
+| ![Controlled Runnerz Field Test capture showing the branded lime trail, live metrics, Finish and non-overlapping hold-to-open SOS on real Avis route geometry](assets/app-1-1-0-controlled-signature-trail-code16.png) | ![Expanded Runnerz active-run map showing the branded trail, route controls, live metrics, Finish and hold-to-open SOS action](assets/app-1-1-0-controlled-signature-trail-expanded-code16.png) |
 
 The earlier gallery images use the physical Android 1.0.10 field-test capture
-set, including the revised timer-only completion state. The new unaltered
-capture used **real Eros Urban Arc route geometry** and sent **60 deterministic,
-realistic accepted fixes** through the **production tracking and metrics path**
-on a **HONOR REA-NX9**. It shows **0.18 km**, current and average pace,
-estimated gain and **two lime `#39FF88` trail segments** across a pause/resume
-boundary. The simulated run was never finished or banked. This is controlled
-handset evidence, not an outdoor GNSS accuracy or completed-run claim. The
-“5 TEST RUNNERS” route-preview label is Field Test fixture content, not live
-nearby activity. New Running Nearby and Banked Miles captures, plus outdoor
+set, including the revised timer-only completion state. The two new unaltered
+code-16 captures used **real Avis Ridge Scout geometry** and sent deterministic,
+realistic fixes through the **production tracking and metrics path** on a
+**HONOR REA-NX9**. They show current and average pace, estimated gain and two
+lime `#39FF88` trail segments across a pause/resume boundary in both map sizes.
+Finish and the compact three-second **HOLD • SOS** ring remain visible without
+overlap; a physical 3.3-second hold opened emergency quick dial and placed no
+call. The simulated runs were never finished or banked. This is controlled
+handset evidence, not an outdoor GNSS accuracy or completed-run claim. The “5
+TEST RUNNERS” route-preview label is Field Test fixture content, not live nearby
+activity. New Running Nearby and genuine Banked Miles captures, plus outdoor
 tracking acceptance, remain gated on the final walkthrough.
 
 Planned route distance is never presented as kilometres banked. Rankings use
@@ -221,21 +223,29 @@ bank, brand or event partner as confirmed.
 The current public privacy notice explains device-local exact trails and the
 displayed-area requests made to the OpenFreeMap/OpenStreetMap-based map service.
 The account-deletion page documents both the signed-in Settings route and a
-public request route. This canonical privacy/account-deletion release passed
-**77/77** live production checks. That result is the verified website baseline
-from before the pending Android 1.1.0 product-copy promotion; it is not evidence
-that the 1.1.0 app update or its final screenshots are already live.
+public request route. The current privacy/account-deletion and Android code 16
+product-update release passed **79/79** live production checks. This verifies
+the public website content, assets and stated product boundaries; it is not
+evidence of public-store availability, outdoor GNSS acceptance or a completed
+real-world run.
 
-The Android 1.1.0 / code 15 candidate has source/build evidence for both Live
-and Field Test flavours: **260 unit tests passed total** (130 per flavour),
+The Android 1.1.0 / code 16 candidate has source/build evidence for both Live
+and Field Test flavours: **284 unit tests passed total** (142 per flavour),
 **zero lint errors**, and application plus instrumentation packages assembled.
 The controlled HONOR REA-NX9 simulation above additionally exercised the
-production tracking and metrics path on real route geometry with 60 accepted
-fixes, 0.18 km and two lime trail segments. The candidate includes accepted-fix
-live tracking, route-selected starts, non-snapping route proximity,
-account-scoped Banked Miles, broad-area Running
-Nearby, report/block controls, invitation-led women-only runs, current-document
-legal reacceptance and a restrained UNIFIED 20 handoff.
+production tracking and metrics path on real route geometry with pause/resume-
+separated lime trail segments in both map sizes. The candidate includes
+accepted-fix live tracking, route-selected starts, non-snapping route proximity,
+account-scoped Banked Miles, broad-area Running Nearby, report/block controls,
+invitation-led women-only runs, current-document legal reacceptance and a
+restrained UNIFIED 20 handoff.
+
+Release hardening also binds the foreground recorder to the verified session
+owner: transient restore or network states preserve only an already-verified
+run, while sign-out, owner switch, legal-access loss or malformed state revoke
+it. Recorded-run data stays withheld until guest or account scope is settled,
+and the previous process-lifetime social refresh loop has been replaced with
+foreground- and mutation-driven refresh.
 
 That Android evidence is not final release acceptance. Outdoor GNSS movement and
 poor-signal testing, screen-off provider continuity and OEM background behaviour,
