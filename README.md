@@ -31,14 +31,33 @@ The result combines a human launch story with a working route-discovery surface.
 - A real Android gallery rather than speculative phone mockups, including ranked meetup options, a live Founder portrait, governed recognition and the native share-card studio.
 - Production-shaped Insider registration with validation, consent and truthful delivery states.
 - Founder-only operations command with live product signals, a structured Insider workflow, audit-ready exports and accountable follow-up states.
-- Privacy, support, terms, safety and account-deletion routes.
+- Live privacy, support, terms, safety and account-deletion routes, including a
+  public deletion-request path and an in-app Settings path for signed-in
+  runners.
 - Mobile-hardened Route Lab, navigation and gallery behaviour with reduced-motion handling.
 - A persistent hamburger control keeps the full Runnerz navigation one tap away across phone, tablet and desktop widths, while the direct link row remains available on larger screens.
 - Metadata, sitemap, security headers and production health checks.
-- A new product update section for the 1.0.11 active-run candidate: live lime trail, useful run metrics, durable offline history, privacy-safe aggregate mileage/leaderboards, minimised Android controls, privacy-safe Running Nearby, music handoff and sponsor/event-ready Community space.
-- A women-centred programme story covering women-only invite-controlled runs, women-led all-welcome sessions, beginner circles and daylight route checks; optional self-reported identity stays private and is never inferred or published.
+- A product update section for the Android 1.1.0 / code 15 source-and-build
+  candidate: accepted-fix map follow, a full-span segmented `#39FF88` trail,
+  elapsed time, distance, current/average pace, estimated elevation gain,
+  durable account-scoped Banked Miles, minimised Android workout controls,
+  broad-area Running Nearby and an explicit music handoff. Final outdoor and
+  handset acceptance remain open.
+- Route-selected starts and separate expanded-map ME, ROUTE, PREV and NEXT
+  controls. Route proximity is guidance only: Runnerz never snaps the recorded
+  GPS trail or banked distance onto a planned route.
+- A women-centred programme story covering invitation-led women-only runs,
+  women-led all-welcome sessions, beginner circles and daylight route checks.
+  Optional self-reported identity stays private, is never inferred or
+  published, and never replaces host approval.
+- Account-level block/report controls, current-document legal reacceptance and
+  a fail-closed account surface when required acceptance cannot be verified.
+- Opt-in Running Nearby cards use only a broad area and short-lived presence;
+  they expose no coordinates, exact distance, direction, pace or trail.
 - A `Coming soon` gallery presenting the complete 21-product concept collection across hydration, headwear, movement essentials, carry/keepsakes, club travel and the original three-tee range. Five catalogue image families replace the earlier three-item preview, while vehicle graphics remain clearly identified as launch-support artwork. A consented product-interest signal captures demand without making a payment, preorder, price, stock or allocation promise.
-- A dedicated Official Runnerz Music Player story and separate UNIFIED × Runnerz digital promo inside the merch area, now led by real 15.0 Momentum Engine handset captures and its generated aggregate-only Season card while staying outside the verified 21-item physical catalogue.
+- A dedicated Official Runnerz Music Player story and separate UNIFIED ×
+  Runnerz digital promo inside the merch area, now centred on UNIFIED 20.0
+  Signal Command while staying outside the 21-item physical catalogue.
 - A new community-ecosystem bridge introduces Magic Boys Football Academy through its live privacy-first website without presenting the academy and Runnerz as the same initiative.
 
 ## Ambassador and culture layer
@@ -49,17 +68,38 @@ The public product story now introduces Shadrac “ShowTime” Mavungu as an off
 
 ## Official Runnerz Music Player
 
-| Momentum Engine | Playable Next Move | Listening Season card |
+| Retained Momentum Engine evidence | Retained Next Move evidence | Retained Listening Season card |
 |---|---|---|
-| ![UNIFIED 15.0 Momentum Engine](assets/unified-15-momentum-season.png) | ![UNIFIED 15.0 thirty-track Next Move](assets/unified-15-next-move.png) | ![UNIFIED 15.0 aggregate-only Listening Season card](assets/unified-15-season-card.png) |
+| ![Historical UNIFIED 15.0 Momentum Engine capture](assets/unified-15-momentum-season.png) | ![Historical UNIFIED 15.0 thirty-track Next Move capture](assets/unified-15-next-move.png) | ![Historical UNIFIED 15.0 aggregate-only Listening Season card](assets/unified-15-season-card.png) |
 
-*Real `15.0-debug` captures and generated share output from the physical HONOR Android 15 release handset with its 3,795-track local library.*
+*These are genuine earlier 15.0 handset captures retained to document the
+product's design lineage. They do not depict the current UNIFIED 20.0 Signal
+Command deck or final Runnerz 1.1.0 handset acceptance.*
 
-The website gives **UNIFIED × Runnerz** its own ecosystem story rather than presenting music as a generic external-app button. UNIFIED 15.0 is the installed official Runnerz music player: a local-first Kotlin Multiplatform system with adaptive daily missions, a private 28-day Listening Season, honest previous-window comparison, a playable artist-diversified thirty-track Next Move, thirty-five persistent badges, five explainable listening archetypes and a checksummed two-generation Library Vault.
+The website gives **UNIFIED × Runnerz** its own ecosystem story rather than
+presenting music as a generic external-app button. The current public story is
+UNIFIED 20.0 Signal Command: a local-first system with a real Command Deck,
+five evidence-led Smart Spaces, a checksum-protected Capsule and reversible
+Queue Director controls. It retains the 3,795-track local Vault, thirty-five
+earned badges, adaptive missions, private 28-day Listening Season and playable
+artist-diversified Next Move established by the earlier evidence set.
 
-Starting a duration-aware run mix in UNIFIED can launch the matching Runnerz session; the bridge hands over only its title, target duration and track count. Track identities and full listening history stay in UNIFIED, while exact route data stays in Runnerz. The player itself is physically installed and verified; the signed start/run/return round-trip remains a separate integration gate before that complete loop is described as production-ready.
+Runnerz 1.1.0 detects a supported UNIFIED installation locally and keeps the
+suggestion inside the explicit music action and Settings. An explicitly armed
+session carries only bounded soundtrack/session context; track identities and
+listening history stay in UNIFIED, while exact route data stays in Runnerz. An
+armed session expires, can be cancelled, and returns only aggregate completion
+metadata after Runnerz observes and banks a run. The complete start/run/return
+round trip and production signing trust remain acceptance gates rather than a
+production-ready claim.
 
-The website promotion also keeps the commercial and rights boundaries visible: the player is a separate digital product rather than a paid order or a 22nd physical item, Apple Music and Spotify production adapters still require registered provider infrastructure, and ShowTime Radio discovers eleven real metadata-matched local tracks without treating a match as rights approval. The supplied Runnerz ambassador portrait is bundled for presentation; no artist audio or remote stream is bundled. The Season card contains only aggregate listening evidence—never track titles, artists or file paths.
+The website promotion also keeps the commercial and rights boundaries visible:
+the player is a separate digital product rather than a paid order or a 22nd
+physical item, and provider playback still requires registered infrastructure.
+ShowTime Radio's metadata matches are not treated as music-rights approval. The
+supplied Runnerz ambassador portrait is bundled for presentation; no artist
+audio or remote stream is bundled. Listening share output contains aggregate
+evidence rather than track titles, artists or file paths.
 
 ## Community ecosystem bridge
 
@@ -67,7 +107,11 @@ The public Runnerz story now links directly to [Magic Boys Football Academy](htt
 
 ## Live product proof
 
-The website now presents the production-shaped Android account journey alongside the wider Runnerz product story.
+The website presents the production-shaped Android account journey alongside
+the wider Runnerz product story. The earlier images below are physical
+field-test captures retained as product-history evidence. The final image is
+a controlled 1.1.0 simulation on a physical handset; it is not final outdoor
+acceptance.
 
 | Welcome | Secure sign-in | Create account |
 |---|---|---|
@@ -89,7 +133,25 @@ The website now presents the production-shaped Android account journey alongside
 |---|---|---|
 | ![Runnerz privacy and trust onboarding](assets/app-onboarding-trust.webp) | ![Signed Runnerz Founder welcome](assets/app-founder-welcome.webp) | ![Runnerz Founder’s Corner](assets/app-founder-community.webp) |
 
-The gallery currently uses the physical Android 1.0.10 field-test capture set, including the revised timer-only completion state. New 1.0.11 live-tracking and Banked Miles captures remain gated on the final handset walkthrough. Planned route distance is never presented as verified kilometres banked; only completed aggregate sessions that pass the server evidence gate can affect ranked totals.
+| 1.1.0 controlled signature trail on HONOR REA-NX9 |
+|---|
+| ![Controlled Runnerz Field Test capture showing two lime trail segments, 60 accepted fixes and 0.18 km on real Eros route geometry](assets/app-1-1-0-controlled-signature-trail.jpg) |
+
+The earlier gallery images use the physical Android 1.0.10 field-test capture
+set, including the revised timer-only completion state. The new unaltered
+capture used **real Eros Urban Arc route geometry** and sent **60 deterministic,
+realistic accepted fixes** through the **production tracking and metrics path**
+on a **HONOR REA-NX9**. It shows **0.18 km**, current and average pace,
+estimated gain and **two lime `#39FF88` trail segments** across a pause/resume
+boundary. The simulated run was never finished or banked. This is controlled
+handset evidence, not an outdoor GNSS accuracy or completed-run claim. The
+“5 TEST RUNNERS” route-preview label is Field Test fixture content, not live
+nearby activity. New Running Nearby and Banked Miles captures, plus outdoor
+tracking acceptance, remain gated on the final walkthrough.
+
+Planned route distance is never presented as kilometres banked. Rankings use
+device-recorded aggregate sessions that pass server plausibility checks; they
+are not race-verified or anti-tamper-attested results.
 
 ## Product atmosphere
 
@@ -103,7 +165,10 @@ The visual system uses near-black, electric green, white and mint with a restrai
 
 The public catalogue includes route studies across Avis, Eros, Olympia, Brakwater, Windhoek Central, Auasblick, Ludwigsdorf, Katutura, Khomasdal, Dorado Park, Pioneerspark, Suiderhof, Kleine Kuppe, Academia, Hochland Park and Cimbebasia.
 
-Geometry is genuine routed open data. Access, lighting, water, road conditions and safety remain explicitly marked for local field verification.
+Geometry is genuine routed open data. Access, lighting, water, road conditions
+and safety remain explicitly marked for local field verification. In the
+Android candidate, selecting a route provides proximity context only and never
+rewrites the runner's recorded GPS trail or distance.
 
 ## Engineering overview
 
@@ -136,21 +201,50 @@ BROWSER + DEVICE EVALUATION → SAFETY CORRECTION → HARDENED RELEASE
 
 ## Current status
 
-The official website is live at [runnerznamibia.com](https://runnerznamibia.com). Its production verification suite covers public routes, legal and support pages, security headers, health/weather contracts, sitemap coverage, route studies, PMTiles byte-range delivery, canonical host behaviour and anonymous rejection at the operations boundary.
+The official website is live at
+[runnerznamibia.com](https://runnerznamibia.com). DigitalOcean App Platform
+runs the origin behind Cloudflare DNS, TLS and edge controls. The production
+verification suite covers public routes, legal/support/deletion pages,
+security headers, health and weather contracts, sitemap coverage, route
+studies, PMTiles byte-range delivery, canonical-host behaviour and anonymous
+rejection at the operations boundary.
 
 The Route Lab now exposes 27 distinct Windhoek studies while keeping field verification explicit. Rocky Crest, Wanaheda and Luxury Hill were added through the same BRouter/OpenStreetMap pipeline; candidates without two credible public-place meetups inside 500 metres were rejected. The Insider journey has validation and confirmation mail, and the product gallery uses physical-device captures spanning signup and recovery, ranked meetup-map options, an owner-controlled Founder profile, governed recognition and privacy-safe square/Story exports.
 
-September registration hardening makes required device choices explicit and replaces a silently disabled submit button with actionable guidance. Security-check expiry and loading failures have a visible retry path; optional WhatsApp consent remains optional. Automated tests exercise valid platform choices, Namibian-number validation, mandatory consent, security rejection and duplicate registration with external delivery mocked. Those tests do not substitute for real production delivery checks.
+The live site carries the complete 21-item `Coming soon` merchandise concept
+gallery and its consented interest signal. The flow takes no payment and makes
+no preorder, price, stock, reservation or allocation promise. The music player
+remains a separate digital product, not a 22nd catalogue item. The public
+community story reserves sponsor/event/editorial space without presenting any
+bank, brand or event partner as confirmed.
 
-The registration correction is deployed. Its local handler suite passed six checks and the deployed website passed 53 public-route, health and security-contract checks. A real-mail signup acceptance check remains separate from that result. The public product gallery was refreshed on 12 September 2026 from the current private website and Android evidence sets.
+The current public privacy notice explains device-local exact trails and the
+displayed-area requests made to the OpenFreeMap/OpenStreetMap-based map service.
+The account-deletion page documents both the signed-in Settings route and a
+public request route. This canonical privacy/account-deletion release passed
+**77/77** live production checks. That result is the verified website baseline
+from before the pending Android 1.1.0 product-copy promotion; it is not evidence
+that the 1.1.0 app update or its final screenshots are already live.
 
-The complete 21-product merchandise concept gallery was deployed on 21 September 2026. Production acceptance confirmed the catalogue marker, every product name and all five concept-image families on the canonical domain; the updated production verifier passes all 65 checks. The live interest flow remains explicitly non-transactional: it takes no payment and makes no preorder, price, stock, reservation or allocation promise.
+The Android 1.1.0 / code 15 candidate has source/build evidence for both Live
+and Field Test flavours: **260 unit tests passed total** (130 per flavour),
+**zero lint errors**, and application plus instrumentation packages assembled.
+The controlled HONOR REA-NX9 simulation above additionally exercised the
+production tracking and metrics path on real route geometry with 60 accepted
+fixes, 0.18 km and two lime trail segments. The candidate includes accepted-fix
+live tracking, route-selected starts, non-snapping route proximity,
+account-scoped Banked Miles, broad-area Running
+Nearby, report/block controls, invitation-led women-only runs, current-document
+legal reacceptance and a restrained UNIFIED 20 handoff.
 
-On 23 September 2026, the site-wide hamburger navigation and a narrow-screen repair for the merchandise interest form were deployed. The form was checked in the live browser at 320, 390 and 430 pixel widths without overflow. The footer credits SolarSpin Technologies and links to Freeman Ipumbu’s personal portfolio; the production verifier again passed all 65 checks.
-
-On 24 September 2026, the UNIFIED 9.0 and community-ecosystem release went live on the canonical domain. The standalone Official Runnerz Music Player section now carries real release-handset screenshots and the verified 3,795-track Library Vault story; the Magic Boys FA bridge links only to the academy's live privacy-first website; the 21-item physical catalogue remains intact; and UNIFIED stays outside the merch-interest form. Desktop and narrow-screen browser acceptance passed, DigitalOcean promoted the final public-link boundary in commit `b9acf1b`, and the production verifier completed all 74 public-route, asset, security, health and integration-boundary checks with zero failures.
-
-On 25 September 2026, the official player story advanced to UNIFIED 15.0 Momentum Engine. The live page now shows the private 28-day Listening Season, real thirty-track Next Move, thirty-five-badge progression and the generated aggregate-only Season card using the final handset evidence. Desktop and 390-pixel mobile acceptance passed with no browser errors; DigitalOcean promoted commit `5b28baa`, the Sites mirror published version 17 from the same source commit, and the canonical production verifier completed all 73 current public-route, asset, security, health and integration-boundary checks with zero failures.
+That Android evidence is not final release acceptance. Outdoor GNSS movement and
+poor-signal testing, screen-off provider continuity and OEM background behaviour,
+battery sampling, multi-account hosted checks, paired Wear OS notification
+mirroring and the complete UNIFIED round trip remain open. Store acceptance,
+including a signed Play artifact, Play Console declarations and reviewer
+materials, also remains open. Notification mirroring is not a native Wear OS
+app, and this Android repository contains no iOS, watchOS, Apple signing or TestFlight
+product; Apple platforms require separate implementations.
 
 ## Repository boundary
 
