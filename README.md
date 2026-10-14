@@ -64,7 +64,7 @@ The result combines a human launch story with a working route-discovery surface.
 
 ![Shadrac ShowTime Mavungu](assets/showtime-ambassador.jpg)
 
-The public product story now introduces Shadrac “ShowTime” Mavungu as an official Runnerz Brand Ambassador. His original Runnerz track and planned Didi-led content are described as work in development; no sponsor or featured artist is presented as confirmed before an agreement exists.
+The public product story introduces Shadrac “ShowTime” Mavungu as an official Runnerz Brand Ambassador. His [official 64-second soundtrack teaser](https://github.com/freeman-ipumbu/runnerz-android-case-study/blob/main/media/runnerz-showtime-official-soundtrack-teaser.mp4) is ready, while the full recorded and mastered track remains in development. Planned Didi-led content, sponsors and additional featured artists are not presented as confirmed before agreements exist.
 
 ## Official Runnerz Music Player
 
