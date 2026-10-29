@@ -265,3 +265,5 @@ Security concerns should be sent privately to [info@runnerznamibia.com](mailto:i
 ---
 
 © 2026 Runnerz Namibia. Product and brand material is shared for portfolio viewing. No licence is granted to reproduce the product, identity or documentation.
+
+Runnerz is a Freeman Ipumbu founder venture. Its public website and product record sit within the wider [SolarSpin Technologies body of work](https://www.solarspin-namibia.xyz/) without changing Runnerz Namibia's independent identity.
